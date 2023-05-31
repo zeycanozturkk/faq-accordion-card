@@ -12,5 +12,5 @@ Users should be able to:
 3. Hide/Show the answer to a question when the question is clicked.
 4. Bonus: Complete the challenge without using JavaScript. 
 
-## Buil with
+## Build with
 html, css, javascript
